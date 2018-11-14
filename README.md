@@ -59,7 +59,7 @@ Commands
 | tmux attach -t <SESSION NAME> | attach to the session called `<SESSION NAME>` |
 
 
-Scripting TMUX
+Scripting Tmux
 ==============
 
 Starting multiple commands in multiple panes
