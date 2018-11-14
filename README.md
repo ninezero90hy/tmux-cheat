@@ -95,7 +95,7 @@ tmux -2 attach-session -t cflogs
 ```
 
 
-Configuring TMUX
+Configuring Tmux
 ================
 
 You can configure tmux via the `~/.tmux.conf` file. After making changes to the config file, you can update the configuration "on-the-fly" with
