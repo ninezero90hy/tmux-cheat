@@ -1,4 +1,4 @@
-Tmux Cheat Sheet
+Tmux Cheat
 ================
 
 **Table of Contents**
